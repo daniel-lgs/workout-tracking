@@ -1,4 +1,4 @@
-# Habit tracker 💡 
+# Workout tracker 🏋️‍♂️
 
 This application uses the https://sheety.co API with the https://www.nutritionix.com API to create an automatic fitness tracker via Google Sheets.
 
